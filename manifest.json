@@ -1,7 +1,7 @@
 {
 	"id": "naoufal-folder-focus",
 	"name": "Folder Focus",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minAppVersion": "0.15.0",
 	"description": "Hide/show folders in the file explorer to keep your focus. Hide all, unhide all, hide specific, keep specific, bulk hide, bulk keep.",
 	"author": "Naoufal Elouahabi",
